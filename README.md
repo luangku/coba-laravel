@@ -9,4 +9,4 @@
 
 ## Keterangan
 
-Ini website dummy yang dibuat untuk latihan
+Ini website dummy yang dibuat untuk latihan, coba tahap 2
